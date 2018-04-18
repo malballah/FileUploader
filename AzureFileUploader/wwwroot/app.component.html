@@ -1,0 +1,22 @@
+<div class='container-fluid'>
+    <div class="row">
+        <div style="width:300px;margin:0 auto" *ngIf="uploader.isUploading">
+            <h3>Uploading please wait</h3>
+        </div>
+        <div class="upload-button">
+            <a (click)="fileInput.click()"><i class="fa fa-upload"> </i>   {{uploadItemAction}} </a>
+            <input type="file" #fileInput ng2FileSelect [uploader]="uploader" multiple class="hide" />
+
+        </div>
+        <div class="upload-zone" (click)="fileInput.click()" *ngIf="!uploader.isUploading">
+            <div ng2FileDrop
+                 [ngClass]="{'nv-file-over': hasBaseDropZoneOver}"
+                
+                 [uploader]="uploader"
+                
+                 class="well my-drop-zone">
+                Drop files here to upload
+            </div>
+        </div>
+    </div>
+</div>

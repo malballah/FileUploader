@@ -1,0 +1,12 @@
+D:\Freelance\Peter\AzureFileUploader\Authorization\bin\Debug\netcoreapp2.0\Authorization.deps.json
+D:\Freelance\Peter\AzureFileUploader\Authorization\bin\Debug\netcoreapp2.0\Authorization.runtimeconfig.json
+D:\Freelance\Peter\AzureFileUploader\Authorization\bin\Debug\netcoreapp2.0\Authorization.runtimeconfig.dev.json
+D:\Freelance\Peter\AzureFileUploader\Authorization\bin\Debug\netcoreapp2.0\Authorization.dll
+D:\Freelance\Peter\AzureFileUploader\Authorization\bin\Debug\netcoreapp2.0\Authorization.pdb
+D:\Freelance\Peter\AzureFileUploader\Authorization\obj\Debug\netcoreapp2.0\Authorization.csprojResolveAssemblyReference.cache
+D:\Freelance\Peter\AzureFileUploader\Authorization\obj\Debug\netcoreapp2.0\Authorization.csproj.CoreCompileInputs.cache
+D:\Freelance\Peter\AzureFileUploader\Authorization\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Freelance\Peter\AzureFileUploader\Authorization\obj\Debug\netcoreapp2.0\Authorization.AssemblyInfoInputs.cache
+D:\Freelance\Peter\AzureFileUploader\Authorization\obj\Debug\netcoreapp2.0\Authorization.AssemblyInfo.cs
+D:\Freelance\Peter\AzureFileUploader\Authorization\obj\Debug\netcoreapp2.0\Authorization.dll
+D:\Freelance\Peter\AzureFileUploader\Authorization\obj\Debug\netcoreapp2.0\Authorization.pdb
